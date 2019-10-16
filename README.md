@@ -1,7 +1,4 @@
-
-
-Recommended tech talks:
-
+# Recommended tech talks:
 * [Design Microservice Architectures the Right Way](https://www.infoq.com/presentations/microservices-arch-infrastructure-cd) (Mike Bryzek - QCon New York 2018)
 * [Testing in Production at Flow Commerce](https://www.youtube.com/watch?v=9C0efJkT0Hg) (Mike Bryzek - QCon San Francisco 2017)
 * [Testing in Production at LinkedIn](https://www.youtube.com/watch?v=lbO6INBICpQ) (Szczepan Faber - Devoxx Poland 2018)
@@ -15,3 +12,9 @@ Recommended tech talks:
 * [Microservices and the Art of Taming the Dependency Hell Monster](https://www.infoq.com/presentations/microservices-dependencies) (Michael Bryzek - QCon New York 2015)
 * [10+ Deploys per day at Flickr](https://www.youtube.com/watch?v=LdOe18KhtT4) (Velocity Conference 2009)
 
+# Incident analysis
+* [Incidents as imagined versus Incidents as they Actually Happen](https://www.youtube.com/watch?v=8DtzmV1jiyQ)(John Allspaw, PagerDuty Summit 2018)
+* [How Did Things Go Right?](https://www.youtube.com/watch?v=5-2jMlsPqc8) (Ryan Kitchens, SRECon 2019)
+* [Taking Human Performance Seriously In Software](https://www.youtube.com/watch?v=VgsRXPoYmwM) (John Allspaw, Monitorama PDX 2019)
+* [Learning from Learnings: Anatomy of Three Incidents](https://www.youtube.com/watch?v=n-dAVgIpJHo) (Randy Shoup, SRECon 2019)
+* [Catching Snafus and Learning from Incidents](https://www.youtube.com/watch?v=ztBpr705gE4) (New Relic Future Talks, 2019)

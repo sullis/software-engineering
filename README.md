@@ -13,9 +13,9 @@
 * [10+ Deploys per day at Flickr](https://www.youtube.com/watch?v=LdOe18KhtT4) (Velocity Conference 2009)
 
 # Incident analysis
-* [Incidents as imagined versus Incidents as they Actually Happen](https://www.youtube.com/watch?v=8DtzmV1jiyQ)(John Allspaw, PagerDuty Summit 2018)
-* [How Did Things Go Right?](https://www.youtube.com/watch?v=5-2jMlsPqc8) (Ryan Kitchens, SRECon 2019)
+* [Incidents as imagined versus Incidents as they Actually Happen](https://www.youtube.com/watch?v=8DtzmV1jiyQ) (John Allspaw, PagerDuty Summit 2018)
 * [Taking Human Performance Seriously In Software](https://www.youtube.com/watch?v=VgsRXPoYmwM) (John Allspaw, Monitorama PDX 2019)
+* [How Did Things Go Right?](https://www.youtube.com/watch?v=5-2jMlsPqc8) (Ryan Kitchens, SRECon 2019)
 * [Learning from Learnings: Anatomy of Three Incidents](https://www.youtube.com/watch?v=n-dAVgIpJHo) (Randy Shoup, SRECon 2019)
 * [Catching Snafus and Learning from Incidents](https://www.youtube.com/watch?v=ztBpr705gE4) (New Relic Future Talks, 2019)
 * [Maximizing Learning from Incidents](https://www.youtube.com/watch?v=oJwpyf0qJvo) (Ian Malpass, DevOps Minneapolis, August 2018)

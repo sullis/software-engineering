@@ -20,3 +20,4 @@
 * [Learning from Learnings: Anatomy of Three Incidents](https://www.youtube.com/watch?v=n-dAVgIpJHo) (Randy Shoup, SRECon 2019)
 * [Catching Snafus and Learning from Incidents](https://www.youtube.com/watch?v=ztBpr705gE4) (New Relic Future Talks, 2019)
 * [Maximizing Learning from Incidents](https://www.youtube.com/watch?v=oJwpyf0qJvo) (Ian Malpass, DevOps Minneapolis, August 2018)
+* [Resilience Engineering Mythbusting](https://www.youtube.com/watch?v=LOP_89JB_U8) (Will Gallego, SREcon Americas 2019)

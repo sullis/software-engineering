@@ -13,6 +13,7 @@
 * [10+ Deploys per day at Flickr](https://www.youtube.com/watch?v=LdOe18KhtT4) (Velocity Conference 2009)
 
 # Incident analysis
+* [How Your Systems Keep Running Day After Day](https://www.youtube.com/watch?v=xA5U85LSk0M) (John Allspaw, DOES 2017, San Francisco)
 * [Incidents as imagined versus Incidents as they Actually Happen](https://www.youtube.com/watch?v=8DtzmV1jiyQ) (John Allspaw, PagerDuty Summit 2018)
 * [Taking Human Performance Seriously In Software](https://www.youtube.com/watch?v=VgsRXPoYmwM) (John Allspaw, Monitorama PDX 2019)
 * [How Did Things Go Right?](https://www.youtube.com/watch?v=5-2jMlsPqc8) (Ryan Kitchens, SRECon 2019)

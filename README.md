@@ -6,6 +6,7 @@
 * [Microservices at Netflix Scale](https://www.youtube.com/watch?v=57UK46qfBLY) (Ruslan Meshenberg - GOTO Amsterdam 2016)
 * [Crushing Tech Debt at Coinbase](https://www.youtube.com/watch?v=KaK2lAj1B-Q) (Rob Witoff - QCon London 2017)
 * [Don't Build a Distributed Monolith](https://www.youtube.com/watch?v=-czp0Y4Z36Y) (Ben Christensen - Microservices Practitioner Summit 2016)
+* [Speeding Up Innovation](https://www.youtube.com/watch?v=rnygCAvVBj8) (Adrian Cockcroft - CraftConf 2019)
 * [Effective Microservices in a Data-Centric World](https://www.youtube.com/watch?v=whi0T1a4cWU) (Randy Shoup - GOTO Chicago 2017)
 * [Feature Branches and Toggles](https://www.youtube.com/watch?v=lqRQYEHAtpk) (Sam Newman - GOTO Chicago 2017)
 * [Principles of Microservices](https://www.youtube.com/watch?v=PFQnNFe27kU) (Sam Newman - Devoxx Belgium November 2015)

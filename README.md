@@ -22,3 +22,4 @@
 * [Catching Snafus and Learning from Incidents](https://www.youtube.com/watch?v=ztBpr705gE4) (New Relic Future Talks, 2019)
 * [Maximizing Learning from Incidents](https://www.youtube.com/watch?v=oJwpyf0qJvo) (Ian Malpass, DevOps Minneapolis, August 2018)
 * [Resilience Engineering Mythbusting](https://www.youtube.com/watch?v=LOP_89JB_U8) (Will Gallego, SREcon Americas 2019)
+* [Root Cause, You're Probably Doing It Wrong](https://www.youtube.com/watch?v=kIi__Owtp8o) (TJ Gibson, SREcon17 Americas)
